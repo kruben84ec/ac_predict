@@ -1,0 +1,49 @@
+https://www.youtube.com/watch?v=tnDVtjtYDSY
+https://ernestocrespo13.wordpress.com/2018/02/11/construir-una-red-neuronal-en-pocos-minutos/
+
+https://geekytheory.com/tip-linux-crear-un-script-para-ejecutar-programas-desde-bash
+
+https://codigofacilito.com/articulos/wsgi-python
+
+https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
+https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/
+https://www.aprendemachinelearning.com/arbol-de-decision-en-python-clasificacion-y-prediccion/
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+
+En windows https://tecnonucleous.com/2018/01/28/como-instalar-pip-para-python-en-windows-mac-y-linux/
+https://stackoverflow.com/questions/7475223/mysql-config-not-found-when-installing-mysqldb-python-interface
+/etc/mysql/mysql.conf.d/mysqld.cnf
+https://sweetcode.io/home/
+
+Sirven tanto para windows sin usuar sudo y para ubuntu
+https://devanswers.co/installing-ftp-server-vsftpd-ubuntu-18-04/
+
+Crear un entorno virtual en python:
+https://medium.com/@m.monroyc22/configurar-entorno-virtual-python-a860e820aace
+https://rukbottoland.com/blog/tutorial-de-python-virtualenv/
+
+virtualenv ven --python=python3
+https://flask.palletsprojects.com/en/1.1.x/deploying/wsgi-standalone/
+https://realpython.com/kickstarting-flask-on-ubuntu-setup-and-deployment/?source=post_page---------------------------
+gunicorn -w 4 -b 0.0.0.0:3000 wsgi:app
+
+https://medium.com/@thucnc/deploy-a-python-flask-restful-api-app-with-gunicorn-supervisor-and-nginx-62b20d62691f
+
+
+
+2. Instalar lo siguiente:
+	2.1 sudo apt-get install python-pip
+cd server 
+source ven/bin/actiavate
+	pip3 install numpy
+	pip3 install matplotlib
+	pip3 install xlsxwriter
+	pip3 install sklearn
+	pip3 install flask
+	pip3 install flask_restfull
+	pip3 install flask_mysqldb
+	pip3 install gunicorn
+	pip3 install pymysql
+	pip install keras
+	pip3 install --upgrade tensorflow
+	pip install flask_cors
