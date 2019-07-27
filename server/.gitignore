@@ -1,0 +1,8 @@
+**/__pycache__/
+**/.eggs
+**/sv.egg-info/
+**/venv/
+python_modules/
+build
+.vscode/
+.coverage
