@@ -1,0 +1,6 @@
+host: 'localhost'
+user: 'crimen'
+pass: 'esta es la clave'
+db: crimen'
+port: '3306'
+root_mysql_pass="f82415580c5fda6ab34fe9f876f22ceac7b8853f0347de4c"
