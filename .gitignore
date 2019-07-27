@@ -1,7 +1,7 @@
 **/__pycache__/
 **/.eggs
 **/sv.egg-info/
-**/venv/
+**/server/venv/
 python_modules/
 build
 .vscode/
